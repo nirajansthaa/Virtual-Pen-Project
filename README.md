@@ -1,12 +1,14 @@
 Virtual Pen Drawing In Canvas with Hand Gestures features
 
 Description
+
 Draw, erase, and interact with a virtual canvas using just your hands and a webcam — no mouse or stylus required!
 
 This project utilizes real-time hand tracking to emulate a virtual pen, enabling users to select colors, draw freely, erase, clear the canvas, and save their artwork using intuitive hand gestures. It demonstrates the power of computer vision, gesture recognition, and creative human-computer interaction.
 
 
 Features
+
 ✍️ Draw on screen with your index finger.
 
 🟦 Choose colors from an on-screen palette using finger position.
